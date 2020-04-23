@@ -1,1 +1,2 @@
 Databazova appka
+Toto je anotacia
